@@ -15,4 +15,4 @@ end
 
 def take_a_number(katz_deli,name)
   katz_deli.push(name)
-  puts "Welcome, #{name}"
+  puts "Welcome, #{name}. You are #{katz_deli.length"
