@@ -6,4 +6,4 @@ def line(x)
   if x.lenght == 0 
     puts "The line is currently empty."
   else 
-    
+    x.each.with_index(1) do |
